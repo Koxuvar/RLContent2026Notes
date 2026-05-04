@@ -1,5 +1,3 @@
-# RLContent2026Notes
-
 ## Stage 1
 ### Day 01
 - Sofaygo
@@ -24,9 +22,12 @@
 - BellyGangKushington
 	- Files numbered in order of setlist please play with each song
 	- "We'd like to run each song's music video on the wall during the set. I also added his logos to that folder, if possible, can we do some simple overlays with FX using them throughout?"
+	- Files sent as AV1 in mp4 containers - alley, media encoder, and after effects would not open files - converted with ffmpeg to useable h.264
 ### Day 02
 - Baby Mel
 	- 100% confirmed no Content
+- Champagne937
+	- one long 16:55 min video - one short video
 
 ### Day 03
 - GoldenBoy Countup
@@ -38,13 +39,22 @@
 ### Day 01
 - XavierSoBased
 	- "The file for the side screen displays is to be overlaid on top of the live feed during his performance. The file is an RGB+Alpha transparent export"
+- Diamond
+	- Full Set length video
+- Percaso
+	- 2 Special videos to be played during maxon tribute
 ### Day02
+- PlaqueBoyMax
+	- Files Rendered to screen Sizes
 - PrettiFun 
 	- No Files in GoogleDrive
+- Swapa
+	- Sent 20min long video
+- Sorisa
+	- Long file of colors - labeled loop but file is 4min long
 
 ### Day 03
 - 9Lives DJ
 	- "Plesae run all loops in random sequence"
 - ThirteenDegress
-	- content rendered to screen rasters
-
+	- content rendered to screen sizes - also includes a single raster render
