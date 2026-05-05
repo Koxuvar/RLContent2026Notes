@@ -6,6 +6,8 @@
     - Bringing own laptop to run visuals from LX position. Needs audio(stereoXLR), and sdi input for imag.
 - Chow Lee
     - Video is only 1 min long but seems to have an "intro" built into the loop
+    - Supplied 2 more videos - Intro with audio and loop for rest of show
+    - Just to run through this again, we’ll have that intro clip play with audio and then as soon as its done the DJ will press play on the music and thats where we’ll have the second visual loop throughout the rest of the performance.
 
 ## Stage 1
 ### Day 01
