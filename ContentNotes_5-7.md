@@ -8,6 +8,8 @@ hospo and media use this as well. it is linked below.
 
 [Artist Grid Here](https://docs.google.com/spreadsheets/d/1HO7otktpiR47BxFQmzcsEhA3sPW9sJy8iuVS0DK2Euk/edit?gid=85936316#gid=85936316)
 
+Please only view this, do not make changes!
+
 ## UPDATES
 ### SPONSORS
 Make sure you have all these sponsor graphics - Unless told otherwise please play as a loop with no screen time going
@@ -42,8 +44,31 @@ Please Note - There are both "SPONSOR" slides in here as well as festival provid
 - Yume 
     -   Moved to stage 01 from stage 02 for Saturday
 
+### Stage 02
+- Pretti Fun 
+    - Direct from artist mgmt:
+```
+    Setlist (20 mins)
+1. Light
+2. Touch the Sun
+3. Dead First
+4. Feel Like Uzi
+5. Ice Cream
+6. Moon & the Stars
+7. (IF EXTRA TIME LEFT/Encore) Famous
+
+-As labeled in 1st file in link, the 1st & only png file, the pink "PRETTILOVESU2" in our drive is what we want displayed on screen asap for fans to look at while they wait. Even before any music begins while they wait in silence
+-Once show is ready to start & 1st song is about to be played, pls black the screen & Play the 1st stage VIDEO in link that's titled "#1" once beat drops and loop same visual throughout the song
+-As soon as each song ends, pls remove it's current stage visual & black the screen in preparation for the next song/visual.
+-Once the beat for the next song's start, you can play the respective visual
+-For the rest 5 songs/visuals that are in our link, pls just follow the order down & loop their respective visual per each song that I labeled
+-NO MORE THAN 1 VISUAL PER SONG PLS. 
+-If there's time for that last song on the setlist titled  "Famous" you can select any stage video again to pair w/ that song
+```
+
 ### Stage 03 
-- Kori Kardashian
+- JORJIANA
+    - Artist requests for content to start at 00:05:00.00 instead of at 0 because they realized their set is 20 min not 25
 
 ## Stage 1
 ### Day 01
