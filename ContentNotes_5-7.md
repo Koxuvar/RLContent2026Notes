@@ -45,6 +45,8 @@ Please Note - There are both "SPONSOR" slides in here as well as festival provid
     -   Moved to stage 01 from stage 02 for Saturday
 
 ### Stage 02
+
+### Stage 03 
 - Pretti Fun 
     - Direct from artist mgmt:
 ```
@@ -65,8 +67,6 @@ Please Note - There are both "SPONSOR" slides in here as well as festival provid
 -NO MORE THAN 1 VISUAL PER SONG PLS. 
 -If there's time for that last song on the setlist titled  "Famous" you can select any stage video again to pair w/ that song
 ```
-
-### Stage 03 
 - JORJIANA
     - Artist requests for content to start at 00:05:00.00 instead of at 0 because they realized their set is 20 min not 25
 
